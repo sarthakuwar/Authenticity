@@ -159,5 +159,4 @@ ai_text_summarizer/
 
 ---
 
-Let us know if you'd like a Postman collection or OpenAPI spec added for easy API testing! 👩‍💻
 
